@@ -197,7 +197,7 @@ window.BLACKLEMON_DATA = {
       "windows": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Windows/releases/download/v1.4.0/Nexus-1.4.0-x64.exe",
       "counter": {
         "baseline": 74,
-        "anchor": null,
+        "anchor": 132,
         "downloads": 74
       },
       "content": [
