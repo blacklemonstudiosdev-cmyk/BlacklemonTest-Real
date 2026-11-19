@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <style>
+    .bg{fill:#0a0a0a}.fg{stroke:#f2f2ee}
+    @media (prefers-color-scheme: light){.bg{fill:#f2f2ee}.fg{stroke:#0a0a0a}}
+  </style>
+  <rect class="bg" width="200" height="200" rx="44"/>
+  <g class="fg" fill="none" stroke-width="4" stroke-linecap="round">
+    <circle cx="100" cy="100" r="72"/>
+    <line x1="100" y1="100" x2="150.9" y2="150.9"/>
+    <line x1="100" y1="100" x2="100" y2="172"/>
+    <line x1="100" y1="100" x2="49.1" y2="150.9"/>
+    <line x1="100" y1="100" x2="28" y2="100"/>
+    <line x1="100" y1="100" x2="49.1" y2="49.1"/>
+    <line x1="100" y1="100" x2="100" y2="28"/>
+    <line x1="100" y1="100" x2="150.9" y2="49.1"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "name": "Image Tailor",
+  "type": "website",
+  "font": "Panchang",
+  "accent": "#ee8c04",
+  "status": "Available Now",
+  "disclaimer": "",
+  "layout": [
+    "Highlights",
+    "Look Closer",
+    "And so much more"
+  ],
+  "url": "https://blimagetailor.vercel.app",
+  "button": "Open Image Tailor"
+}

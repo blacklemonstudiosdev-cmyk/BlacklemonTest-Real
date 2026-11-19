@@ -1,0 +1,19 @@
+{
+  "name": "Almandine PC",
+  "type": "app",
+  "font": "Boska",
+  "accent": "#6e1f3a",
+  "status": "Coming Soon",
+  "disclaimer": "Coming soon.",
+  "layout": [
+    "Highlights",
+    "Look Closer",
+    "And so much more"
+  ],
+  "fontWeight": 200,
+  "mac": {
+    "silicon": "",
+    "intel": ""
+  },
+  "windows": ""
+}

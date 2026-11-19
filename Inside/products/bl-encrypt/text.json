@@ -1,0 +1,15 @@
+{
+  "name": "BL Encrypt",
+  "type": "website",
+  "font": "JetBrainsMono-Variable",
+  "accent": "#1b1b1b",
+  "status": "Available Now",
+  "disclaimer": "",
+  "layout": [
+    "Highlights",
+    "Look Closer",
+    "And so much more"
+  ],
+  "url": "https://blencrypt.vercel.app/",
+  "button": "Open BL Encrypt"
+}
