@@ -198,7 +198,7 @@ window.BLACKLEMON_DATA = {
       "counter": {
         "baseline": 74,
         "anchor": 132,
-        "downloads": 74
+        "downloads": 75
       },
       "content": [
         {
