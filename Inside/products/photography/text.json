@@ -1,0 +1,15 @@
+{
+  "name": "BlackLemon Photography",
+  "type": "website",
+  "font": "SpaceGrotesk-Variable",
+  "accent": "#be2614",
+  "status": "Available Now",
+  "disclaimer": "",
+  "layout": [
+    "Highlights",
+    "Look Closer",
+    "And so much more"
+  ],
+  "url": "https://blacklemonphotography.vercel.app/",
+  "button": "Open BlackLemon Photography"
+}

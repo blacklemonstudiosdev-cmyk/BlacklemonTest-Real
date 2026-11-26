@@ -1,0 +1,15 @@
+{
+  "name": "Waveform.",
+  "type": "website",
+  "font": "Satoshi",
+  "accent": "#d9b064",
+  "status": "Available Now",
+  "disclaimer": "",
+  "layout": [
+    "Highlights",
+    "Look Closer",
+    "And so much more"
+  ],
+  "url": "https://blwaveform.vercel.app/",
+  "button": "Open Waveform."
+}

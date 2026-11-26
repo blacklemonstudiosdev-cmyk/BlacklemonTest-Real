@@ -1,0 +1,16 @@
+{
+  "reviews": [
+    {
+      "title": "amazing",
+      "rating": 5,
+      "product": "",
+      "review": "nexus is great app to organise and has very good features",
+      "nickname": "idk",
+      "date": "2026-11-23T10:12:59.567Z"
+    }
+  ],
+  "stats": {
+    "count": 1,
+    "sum": 5
+  }
+}

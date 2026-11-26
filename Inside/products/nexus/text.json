@@ -1,0 +1,18 @@
+{
+  "name": "Nexus",
+  "type": "app",
+  "font": "Silkscreen",
+  "accent": "#9a7cf7",
+  "status": "Available Now",
+  "disclaimer": "On first open: right-click the app and choose Open.",
+  "layout": [
+    "Highlights",
+    "Look Closer",
+    "And so much more"
+  ],
+  "mac": {
+    "silicon": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Silicon/releases/latest",
+    "intel": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Intel/releases/latest"
+  },
+  "windows": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Windows/releases/download/v1.4.0/Nexus-1.4.0-x64.exe"
+}
